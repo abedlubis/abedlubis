@@ -12,8 +12,8 @@
 - 🇮🇩 &nbsp; I'm an Indonesian
 - :speaking_head: &nbsp; I speak in Bahasa & English
 - :scorpius: &nbsp; I'm a Scorpio
-- :saxophone: &nbsp; I do cooking, reading, watching anime, playing saxophone in spare time
-- :swimmer: &nbsp; Routinely swimming, badminton, cross-country cycling
+- :saxophone: &nbsp; I do cooking, reading, watching anime, and playing saxophone in spare time
+- :swimmer: &nbsp; Routinely swimming, badminton, and cross-country cycling
 - :zap: &nbsp; Fans of One Piece but currently addicted to Killua Zoldyck
 
  
