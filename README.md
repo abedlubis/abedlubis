@@ -6,7 +6,7 @@
 - 📫  &nbsp; How to reach me: <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:email:](mailto:lubisabednego@gmail.com)  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/abednegolubis/)  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter Follow](https://img.shields.io/twitter/follow/bungbed?label=)](https://twitter.com/bungbed)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter Follow](https://img.shields.io/twitter/follow/abednegolubis?label=)](https://twitter.com/abednegolubis)
 
 ### About Me :eyes:
 - 🇮🇩 &nbsp; I'm an Indonesian
