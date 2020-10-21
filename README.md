@@ -1,7 +1,6 @@
 ### Hi everyone, I'm Abed 👋
 
 - 🔭  &nbsp; I’m currently Front End Developer at Shopee Indonesia
-- :school: &nbsp; I’m currently studying at Binus University
 - 👯  &nbsp; I’m open to collaborate on web apps project
 - 📫  &nbsp; How to reach me: <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:email:](mailto:lubisabednego@gmail.com)  
